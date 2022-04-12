@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name"> DataFlair Calculator</string>
+    <string name="equal">=</string>
+    <string name="my_calculator">My Calculator</string>
+    <string name="todo">TODO</string>
+</resources>
